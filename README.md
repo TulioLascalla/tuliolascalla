@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/tulio-lascalla-a724221b5/" target="_blanck">
+  <h2>LinkedIN</h2>
+<a/>
