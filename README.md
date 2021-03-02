@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/tulio-lascalla-a724221b5/" target="_blanck">
+<a href="https://www.google.com">
   <h2>LinkedIN</h2>
 <a/>
